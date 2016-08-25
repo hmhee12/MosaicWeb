@@ -6,7 +6,7 @@
 
 <body>
 <h1>
-	Hello world! Mosaic Web 
+	Hello world! Byung Wook Jung
 </h1>
 
 

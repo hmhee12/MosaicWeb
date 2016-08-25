@@ -1,5 +1,5 @@
 --
--- DROP table
+-- DROP table-
 --
 DROP TABLE tbl_member;
 DROP TABLE tbl_user;
