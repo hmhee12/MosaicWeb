@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>comflict.jsp</title>
+<title>conflict.jsp</title>
 <link href="/resources/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" />
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
 	rel="stylesheet" type="text/css" />
@@ -12,5 +12,10 @@
 </head>
 <body>
 <h1>comflict.jsp</h1>
+
+<p>
+	conflict 해결했다 
+</p>
+
 </body>
 </html>
